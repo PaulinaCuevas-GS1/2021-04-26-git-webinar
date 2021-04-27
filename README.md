@@ -19,12 +19,22 @@ Ich bin in Köln geboren.
 Geboren in Bruchsal, Studium der Wirtschaftsinformatik
 
 Meine Themen: 
-- CRM
-- ERP
-- Dynamics
-- ETL
+-CRM
+-ERP
+-Dynamics
+-ETL
 
 Hobbies: 
-- Bogenschießen
-- Toastmaster
+-Bogenschießen
+-Toastmaster
 
+## Silas
+
+Ich bin 22 Jahre alt und in Freiburg geboren.
+
+- Duales Studium in Management & Digitalisierung bei GS1 seit März 2021
+
+Hobbies
+- Basketball
+- Coding
+- Black & Grey Zeichnen 
