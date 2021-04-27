@@ -26,14 +26,14 @@ Ich bin in Köln geboren.
 Geboren in Bruchsal, Studium der Wirtschaftsinformatik
 
 Meine Themen: 
--CRM
--ERP
--Dynamics
--ETL
+- CRM
+- ERP
+- Dynamics
+- ETL
 
 Hobbies: 
--Bogenschießen
--Toastmaster
+- Bogenschießen
+- Toastmaster
 
 ## Silas
 
