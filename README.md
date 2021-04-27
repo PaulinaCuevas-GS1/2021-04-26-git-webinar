@@ -19,7 +19,7 @@ Ich bin in Köln geboren.
 - Hürth
 - Gitarre
 - Pfadfinder
-
+- Lagerfeuer
 
 
 ## Manuela
