@@ -15,3 +15,16 @@ Ich bin in Köln geboren.
 - seit 2018 am EECC
   - Leite "New Technologies" (DLT, ID, CIRC4Life, Rcycle, Webinare, ...)
 
+## Manuela
+Geboren in Bruchsal, Studium der Wirtschaftsinformatik
+
+Meine Themen: 
+-CRM
+-ERP
+-Dynamics
+-ETL
+
+Hobbies: 
+-Bogenschießen
+-Toastmaster
+
