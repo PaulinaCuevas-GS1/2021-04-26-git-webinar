@@ -1,9 +1,9 @@
 # 2021-04-26-git-webinar
 Test Repository für das git Webinar des EECC am 26. April 2021
 
-# Vorstellungsrunde
+## Vorstellungsrunde
 
-## Sebastian
+### Sebastian
 
 ![Sebastian](ses_2018_08-round.png)
 
@@ -22,7 +22,7 @@ Ich bin in Köln geboren.
 - Lagerfeuer
 
 
-## Manuela
+### Manuela
 Geboren in Bruchsal, Studium der Wirtschaftsinformatik
 
 Meine Themen: 
@@ -35,7 +35,7 @@ Hobbies:
 - Bogenschießen
 - Toastmaster
 
-## Silas
+### Silas
 
 Ich bin 22 Jahre alt und in Freiburg geboren.
 
@@ -47,7 +47,7 @@ Hobbies
 - Black & Grey Zeichnen 
 
 
-## Paulina
+### Paulina
 
 Ich bin in Guadalajara geboren
 
@@ -60,3 +60,6 @@ Ich bin in Guadalajara geboren
 Hobbies:
 - Nähen
 - Heckeln 
+
+
+
