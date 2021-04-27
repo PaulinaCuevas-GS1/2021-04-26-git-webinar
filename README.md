@@ -15,6 +15,13 @@ Ich bin in Köln geboren.
 - seit 2018 am EECC
   - Leite "New Technologies" (DLT, ID, CIRC4Life, Rcycle, Webinare, ...)
 
+- Verheiratet, 4Kinder
+- Hürth
+- Gitarre
+- Pfadfinder
+
+
+
 ## Manuela
 Geboren in Bruchsal, Studium der Wirtschaftsinformatik
 
