@@ -45,3 +45,18 @@ Hobbies
 - Basketball
 - Coding
 - Black & Grey Zeichnen 
+
+
+## Paulina
+
+Ich bin in Guadalajara geboren
+
+- Studiert in Mainz Linguistik und Ethnologie
+- 2018 Universität Marburg (Klinik für Psychiatrie)
+- 2020 promoviert (Neurolinguistik)
+- seit 2019 bei GS1
+
+
+Hobbies:
+- Nähen
+- Heckeln 
