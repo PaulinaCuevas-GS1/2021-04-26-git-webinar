@@ -5,6 +5,8 @@ Test Repository für das git Webinar des EECC am 26. April 2021
 
 ## Sebastian
 
+![Sebastian](ses.png)
+
 Ich bin in Köln geboren.
 
 - Studiert in Köln Mathe, Physik
